@@ -6,6 +6,8 @@
 
 ;; This file is *NOT* part of GNU Emacs
 
+;; License: WTFPL
+
 ;; This file is distributed under the DO WHAT THE FUCK YOU WANT license.
 ;; If you did not receive a text of this license with the software source, eh.
 
